@@ -2,7 +2,7 @@
 
 **`Software Engineer/Developer 🤘`**
 
-My name is Andrew Hsu, I'm a currently a sophomore student in National Chung Cheng University in Taiwan. I'm a Computer Science major and would love to try new things. I mainly work on frontend with React, but I'm currently learning backend and would also love to learn others.
+My name is Andrew Hsu, I'm a currently a sophomore student in National Chung Cheng University in Taiwan. I'm a Computer Science major and would love to try new things. I mainly work on frontend with React. I'm currently learning/improving typescript and SQL and would also love to learn others.
 
 ---
 
