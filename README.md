@@ -2,7 +2,7 @@
 
 **`Software Engineer/Developer 🤘`**
 
-My name is Andrew Hsu, I'm a currently a sophomore student in National Chung Cheng University in Taiwan. I'm a Computer Science major and would love to try new things. I mainly work on frontend with React. I'm currently learning/improving typescript and SQL and would also love to learn others.
+My name is Andrew Hsu, I'm a currently a junior student in National Chung Cheng University in Taiwan. I'm a Computer Science major and would love to try new things. I mainly work on frontend with React. I'm currently learning/improving typescript and SQL and would also love to learn others.
 
 ---
 
@@ -12,7 +12,9 @@ My name is Andrew Hsu, I'm a currently a sophomore student in National Chung Che
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Nextjs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />          
